@@ -17,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
-              <caret line="872" lean-forward="true" selection-start-line="872" selection-end-line="872" />
+            <state relative-caret-position="224">
+              <caret line="849" column="6" lean-forward="true" selection-start-line="849" selection-start-column="6" selection-end-line="849" selection-end-column="6" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -235,12 +235,12 @@
       <updated>1534883391116</updated>
       <workItem from="1534883396520" duration="60817000" />
       <workItem from="1535137231919" duration="3947000" />
-      <workItem from="1535145948834" duration="28125000" />
+      <workItem from="1535145948834" duration="28509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92889000" />
+    <option name="totallyTimeSpent" value="93273000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="548" y="54" width="886" height="823" extended-state="0" />
@@ -505,8 +505,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="872" lean-forward="true" selection-start-line="872" selection-end-line="872" />
+        <state relative-caret-position="224">
+          <caret line="849" column="6" lean-forward="true" selection-start-line="849" selection-start-column="6" selection-end-line="849" selection-end-column="6" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
